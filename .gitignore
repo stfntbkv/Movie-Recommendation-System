@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environment
+proj_env/
+
+# Environment Variables
+.env
+
+# Django stuff:
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+
+# Ignore data folder
+data/
+recommendations/ml_models/
+run.txt
+
+# VSCode and other IDE files
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
