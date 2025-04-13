@@ -1,4 +1,4 @@
-# Advanced Movie Recommendation System
+# Movie Recommendation System using Machine Learning
 
 **A movie recommendation system using collaborative filtering (SVD), content-based filtering (TF-IDF), and a hybrid approach, with a Django web app for interaction.**
 
@@ -156,15 +156,9 @@ The system offers recommendations based purely on content similarity and also us
 ![Recommendations](Screenshots/recommendations.png)
 
 ### Movie Ratings/Movie Info
-<p align="center">
-  <img src="Screenshots/editratings.png" style="width:500px; height:300px; object-fit: cover; margin-right: 10px;" />
-  <img src="Screenshots/movieinfo.png" style="width:500px; height:300px; object-fit: cover;" />
-</p>
+![EditRatings](Screenshots/editratings.png)
+![MovieInfo](Screenshots/movieinfo.png)
 
 ### Login/Register
-<p align="center">
-  <img src="Screenshots/login.png" style="width:500px; height:300px; object-fit: cover; margin-right: 10px;" />
-  <img src="Screenshots/register.png" style="width:500px; height:300px; object-fit: cover;" />
-</p>
-
-```markdown
+![Login](Screenshots/login.png)
+![Register](Screenshots/register.png)
