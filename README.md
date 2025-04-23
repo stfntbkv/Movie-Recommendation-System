@@ -121,7 +121,7 @@ The system offers recommendations based purely on content similarity and also us
     * **Download the model files from:**
         * [Pre-trained models](https://drive.google.com/drive/folders/19-hgxOFR1LY6Q3jrR2njuZvkr1S2hUwG?usp=share_link)
 
-    * **Place the downloaded file(s)** inside the `saved_models/` directory in your project folder. Ensure the filenames match what the application expects (e.g., `svd_model.joblib`, `tfidf_vectorizer.joblib`).
+    * **Place the downloaded file(s)** inside the `saved_models/` directory in your project folder. Ensure the filenames match what the application expects.
 
 
 6.  **Configure Django Application:**
